@@ -1,0 +1,28 @@
+.container{
+    background-color: rgb(105, 105, 237);
+    width: 250px;
+    height: 180px;
+    border-radius: 8px;
+    align-items: center;
+    color: white;
+    margin: auto;
+    margin-top: 130px;
+    padding: 30px;
+}
+h4{
+    text-align: center;
+    color:black;
+}
+.bottom{
+    font-family: cursive;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: rgb(255, 0, 136);
+}
+.icons img{
+    width:20px;
+    height: 20px;
+    margin-left: 110px;
+    margin-top: 15px;
+    cursor: pointer;
+}
